@@ -21,7 +21,7 @@ html, body{
     display: flex;
     align-items: center;
     justify-self: center;
-    gap: 3px;
+    gap: 6px;
 }
 .nav-part1 h3{
     font-size: 17px;
